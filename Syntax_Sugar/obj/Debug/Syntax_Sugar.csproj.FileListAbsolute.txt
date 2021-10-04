@@ -1,0 +1,6 @@
+C:\Users\alexr\Desktop\Repos\Syntax_Sugar\Syntax_Sugar\bin\Debug\Syntax_Sugar.exe
+C:\Users\alexr\Desktop\Repos\Syntax_Sugar\Syntax_Sugar\bin\Debug\Syntax_Sugar.pdb
+C:\Users\alexr\Desktop\Repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\Syntax_Sugar.csproj.AssemblyReference.cache
+C:\Users\alexr\Desktop\Repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\Syntax_Sugar.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Desktop\Repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\Syntax_Sugar.exe
+C:\Users\alexr\Desktop\Repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\Syntax_Sugar.pdb
